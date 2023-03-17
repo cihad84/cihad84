@@ -12,14 +12,14 @@ check it out here [GITHUB](https://github.com/cihad84/FitnessApp)
 
 - 🌱 I’m currently learning Typescript and Java
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
           
           
 
 
 ### Skills
 
-![Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+
 
 
 
