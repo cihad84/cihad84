@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center">Hi there 👋</div> 
 
 ![Alt text](./welcome.gif)
 Here are some ideas to get you started:
