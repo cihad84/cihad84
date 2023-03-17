@@ -10,7 +10,7 @@ food products for their nutrional info. This search also has autocomplete for th
 check it out here [GITHUB](https://github.com/cihad84/FitnessApp)
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Typescript and Java
 
 
 
@@ -18,5 +18,5 @@ check it out here [GITHUB](https://github.com/cihad84/FitnessApp)
 
 
 - 📫 Contact me: akkayac84&#64;gmail&#46;com 
-- ⚡ Fun fact: ...
+
 
