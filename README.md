@@ -13,6 +13,10 @@ check it out here [GITHUB](https://github.com/cihad84/FitnessApp)
 - 🌱 I’m currently learning Typescript and Java
 
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+
+
 ### Skills
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 ![Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
