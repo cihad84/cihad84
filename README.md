@@ -13,6 +13,13 @@ check it out here [GITHUB](https://github.com/cihad84/FitnessApp)
 - 🌱 I’m currently learning Typescript and Java
 
 
+### Skills
+<i class="fas fa-code"></i> Python
+<i class="devicon-javascript-plain"></i> JavaScript
+<i class="devicon-react-original"></i> React
+
+
+
 
 
 
