@@ -14,7 +14,7 @@ check it out here [GITHUB](https://github.com/cihad84/FitnessApp)
 
 
 ### Skills
-<i class="fas fa-code"></i> Python
+<i class="devicon-javascript-plain"></i>
 <i class="devicon-javascript-plain"></i> JavaScript
 <i class="devicon-react-original"></i> React
 
