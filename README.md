@@ -1,6 +1,4 @@
-<div align="center">
-  <p style="font-size:20px">Hi there 👋</p>
-</div>
+
 
 
 ![Alt text](./welcome.gif)
