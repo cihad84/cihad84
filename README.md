@@ -12,13 +12,9 @@ check it out here [GITHUB](https://github.com/cihad84/FitnessApp)
 
 - 🌱 I’m currently learning Typescript and Java
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-          
-          
-
-
 ### Skills
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>        
 
 
 
