@@ -1,4 +1,7 @@
-<div align="center">Hi there 👋</div> 
+<div align="center">
+  <p style="font-size:20px">Hi there 👋</p>
+</div>
+
 
 ![Alt text](./welcome.gif)
 Here are some ideas to get you started:
